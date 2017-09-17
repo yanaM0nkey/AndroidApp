@@ -14,7 +14,6 @@ public class EntryActivity extends FragmentActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_entry);
 
-
         if(savedInstanceState==null){
             showFragment(getSupportFragmentManager(), new LogInFragment());
         }

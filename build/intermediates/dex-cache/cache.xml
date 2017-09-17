@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="E:\TestApp\domain\build\intermediates\bundles\default\classes.jar"
+        jar="E:\AndroidApp\domain\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="c3d79ddf021c204a4774aa195ba28125c2a1f860">
-        <dex dex="E:\TestApp\presentetion\build\intermediates\pre-dexed\debug\classes_d1c55ce8d39b20eba2615b2e5fb2d64a86ca840f.jar" />
+        <dex dex="E:\AndroidApp\presentetion\build\intermediates\pre-dexed\debug\classes_341433ce5edd47257639dd41101f5a56846e20d0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -18,6 +18,24 @@
         revision="26.0.0"
         sha1="5ec67b40b87affe8919ab024104dd175799d4801">
         <dex dex="E:\TestApp\presentetion\build\intermediates\pre-dexed\debug\classes_7bc8b30c29d5d69df8ba08c074e6ad41d474dd18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidApp\data\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5ec67b40b87affe8919ab024104dd175799d4801">
+        <dex dex="E:\AndroidApp\presentetion\build\intermediates\pre-dexed\debug\classes_6c0a983a02c310b3432ac671365ab6e72bc68364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TestApp\domain\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c3d79ddf021c204a4774aa195ba28125c2a1f860">
+        <dex dex="E:\TestApp\presentetion\build\intermediates\pre-dexed\debug\classes_d1c55ce8d39b20eba2615b2e5fb2d64a86ca840f.jar" />
     </item>
 
 </items>
