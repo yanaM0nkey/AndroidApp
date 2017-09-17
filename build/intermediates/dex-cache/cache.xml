@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\TestApp\domain\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c3d79ddf021c204a4774aa195ba28125c2a1f860">
+        <dex dex="E:\TestApp\presentetion\build\intermediates\pre-dexed\debug\classes_d1c55ce8d39b20eba2615b2e5fb2d64a86ca840f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TestApp\data\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5ec67b40b87affe8919ab024104dd175799d4801">
+        <dex dex="E:\TestApp\presentetion\build\intermediates\pre-dexed\debug\classes_7bc8b30c29d5d69df8ba08c074e6ad41d474dd18.jar" />
+    </item>
+
+</items>
